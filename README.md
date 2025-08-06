@@ -1,4 +1,4 @@
-# ASC-SW-Atrous-strip-convolution-network-with-sliding-windows-for-visual-assisted-map-navigation
+# ASC SW Atrous strip convolution network with sliding windows for visual assisted map navigation
 Paper link: https://arxiv.org/abs/2507.12744
 
 Abstract
