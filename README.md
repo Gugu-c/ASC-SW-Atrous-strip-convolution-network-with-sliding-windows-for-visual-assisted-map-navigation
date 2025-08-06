@@ -1,6 +1,7 @@
 # ASC-SW-Atrous-strip-convolution-network-with-sliding-windows-for-visual-assisted-map-navigation
 
 Abstract
+
 With the rapid development of lightweight visual neural network architectures, traditional high-performance vision models have undergone significant compression, greatly improving their computational efficiency and energy consumption ratio. This makes them feasible for deployment on resource-constrained edge computing devices.
 
 We propose a visual-assisted navigation framework called Atrous Strip Convolution–Sliding Window (ASC-SW), which leverages a depth camera and a lightweight visual neural network to assist map-based mobile robot navigation. This framework compensates for the inability of traditional light detection and range (LiDAR) sensors to detect ground-level obstacles such as ground-level wires.
