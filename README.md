@@ -13,4 +13,5 @@ Additionally, a Sliding Window (SW) post-processing module is proposed to denois
 Our method strikes a balance between inference speed and segmentation performance. It achieves a mean Intersection over Union (Miou) score of 75.3\% on a self-built dataset and reaches 9.3 FPS inference speed on the Jetson Orin Nano edge device. Overall, our approach outperforms existing DLO detection models and has been successfully validated on a physical robotic platform.
 
 The demostration is as followed:
+
 ![demo.gif](https://github.com/Gugu-c/ASC-SW-Atrous-strip-convolution-network-with-sliding-windows-for-visual-assisted-map-navigation/blob/main/asc-sw.gif)
